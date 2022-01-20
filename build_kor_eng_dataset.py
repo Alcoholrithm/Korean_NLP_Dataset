@@ -1,7 +1,3 @@
-from torchtext.legacy.data import Field
-from torchtext.legacy.data import TabularDataset
-
-from konlpy.tag import Hannanum
 import pandas as pd
 
 from sklearn.model_selection import train_test_split
